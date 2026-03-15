@@ -8,7 +8,7 @@ Before transitioning into tech, I spent 10 years as an educator, which shaped ho
 
 ---
 
-### 🔧 Tech Stack
+###  Tech Stack
 
 **Frontend:** React · Next.js · Vue.js · TypeScript · Tailwind CSS · Framer Motion  
 **Backend:** PHP (Laravel 7–12) · Node.js · Express · REST API Design  
@@ -19,18 +19,18 @@ Before transitioning into tech, I spent 10 years as an educator, which shaped ho
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**TestMaker**](https://github.com/SiddSparrow/TestMaker) | Laravel 12, Vue.js 3, PostgreSQL, Claude API | AI-powered SaaS for exam creation with intelligent question generation, PDF/DOCX export, and multi-step configuration UI |
-| **SuperSDR** | TypeScript, Express, PostgreSQL, Claude API | Webhook normalization system with async processing, API documentation via OpenAPI/Swagger |
-| **Multi-Tenant CRM** | Next.js, React, Supabase, TypeScript | CRM with Row Level Security, AI-powered messaging, and integrated auth — built in 72 hours |
+| [**SuperSDR**](https://github.com/SiddSparrow/super-sdr-avaliacao) | TypeScript, Express, PostgreSQL, Claude API | Webhook normalization system with async processing, API documentation via OpenAPI/Swagger |
+| [**Multi-Tenant CRM**](https://github.com/SiddSparrow/sdr-crm-prova) | Next.js, React, Supabase, TypeScript | CRM with Row Level Security, AI-powered messaging, and integrated auth — built in 72 hours |
 | [**Landing Pages**](https://github.com/SiddSparrow/barbershop-landing) | Next.js, Tailwind CSS, Framer Motion, Sanity CMS | Reusable, responsive landing page templates with headless CMS and Vercel deployment |
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabioduqueestrada)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabio.duqueestrada@gmail.com)
