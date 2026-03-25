@@ -26,6 +26,8 @@ Before transitioning into tech, I spent 10 years as an educator, which shaped ho
 | [**TestMaker**](https://github.com/SiddSparrow/TestMaker) | Laravel 12, Vue.js 3, PostgreSQL, Claude API | AI-powered SaaS for exam creation with intelligent question generation, PDF/DOCX export, and multi-step configuration UI |
 | [**SuperSDR**](https://github.com/SiddSparrow/super-sdr-avaliacao) | TypeScript, Express, PostgreSQL, Claude API | Webhook normalization system with async processing, API documentation via OpenAPI/Swagger |
 | [**Multi-Tenant CRM**](https://github.com/SiddSparrow/sdr-crm-prova) | Next.js, React, Supabase, TypeScript | CRM with Row Level Security, AI-powered messaging, and integrated auth — built in 72 hours |
+| [**Email Classifier**]([https://github.com/SiddSparrow/sdr-crm-prova](https://github.com/SiddSparrow/personal_email_classifier)) | Python, NLP, Gmail API, Telegram API | Email Classifier that Fetches Emails from Gmail and Sends Notifications via Telegram |
+
 <!--| [**Landing Pages**](https://github.com/SiddSparrow/barbershop-landing) | Next.js, Tailwind CSS, Framer Motion, Sanity CMS | Reusable, responsive landing page templates with headless CMS and Vercel deployment | -->
 
 ---
