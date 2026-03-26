@@ -10,13 +10,13 @@ Before transitioning into tech, I spent 10 years as an educator, which shaped ho
 
 ###  Tech Stack
 
-**Frontend:** React · Next.js · Vue.js · TypeScript · Tailwind CSS · Framer Motion  
-**Backend:** PHP (Laravel 7–12) · Node.js · Express · REST API Design  
-**Databases:** PostgreSQL · MySQL · Redis · Supabase  
+**Frontend:** React · Next.js · Vue.js · TypeScript · Tailwind CSS
+**Backend:** PHP (Laravel 7–12) · Node.js · NestJs · REST API Design  
+**Databases:** PostgreSQL · MySQL · Redis  
 **DevOps:** Docker · AWS · Nginx · Vercel · GitHub Actions · Linux  
 **Integrations:** Anthropic Claude API · OpenAI API · Payment Gateways · Webhooks  
 **Testing:** PHPUnit · Jest · React Testing Library · Cypress
-
+**Artificial Intelligence:** LLM Integration (Claude, OpenAI) · Prompt Engineering · NLP · Machine Learning · AI-powered SaaS 
 ---
 
 ###  Featured Projects
