@@ -17,6 +17,7 @@ Before transitioning into tech, I spent 10 years as an educator, which shaped ho
 **Integrations:** Anthropic Claude API · OpenAI API · Payment Gateways · Webhooks  
 **Testing:** PHPUnit · Jest · React Testing Library · Cypress
 **Artificial Intelligence:** LLM Integration (Claude, OpenAI) · Prompt Engineering · NLP · Machine Learning · AI-powered SaaS 
+
 ---
 
 ###  Featured Projects
